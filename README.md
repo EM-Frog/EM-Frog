@@ -16,5 +16,5 @@ Collaboration
 
 
 Contact Me
-📧 You can contact me via email at [INSERT EMAIL ADDRESS HERE]
+📧 You can contact me via email at [Eric-Macias@outlook.com]
 🌐 Visit my [website](in progress ) to learn more about me and my hobbies.
