@@ -17,4 +17,4 @@ Collaboration
 
 Contact Me
 📧 You can contact me via email at [Eric-Macias@outlook.com]
-🌐 Visit my [https://em-frog.github.io/](in progress ) to learn more about me and my hobbies.
+🌐 Visit my [https://em-frog.github.io/] (in progress ) to learn more about me and my hobbies.
